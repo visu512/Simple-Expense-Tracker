@@ -20,9 +20,10 @@ Welcome to the Expense Tracker Android app! This project is designed to help use
 
 Here are some screenshots of the Expense Tracker app in action:
 
-| Home Screen | Add Expense | Stats |
-|-------------|-------------|-------------|
-| ![Home Screen](drawable/img.png) | ![Add Expense](screenshots/Screenshot_1724273829.png) | ![Stats](screenshots/Screenshot_1724273956.png) |
+<div align="left">
+  <img src=" " img/>
+</div>
+
 
 
 ### Usage
