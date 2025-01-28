@@ -22,7 +22,7 @@ Here are some screenshots of the Expense Tracker app in action:
 
 | Home Screen | Add Expense | Stats |
 |-------------|-------------|-------------|
-| ![Home Screen](homepage.png) | ![Add Expense](screenshots/Screenshot_1724273829.png) | ![Stats](screenshots/Screenshot_1724273956.png) |
+| ![Home Screen](drawable/img.png) | ![Add Expense](screenshots/Screenshot_1724273829.png) | ![Stats](screenshots/Screenshot_1724273956.png) |
 
 
 ### Usage
