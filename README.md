@@ -21,8 +21,8 @@ Welcome to the Expense Tracker Android app! This project is designed to help use
 Here are some screenshots of the Expense Tracker app in action:
 
 <div align="left">
+   <img src="https://github.com/visu512/Simple-Expense-Tracker/blob/c0c3de712013716a7a28ef10b69a3a38afcbafc4/Homepage.png" img/>
   <img src="https://github.com/visu512/Simple-Expense-Tracker/blob/4877a1320870a7d144446da8539d5aaf3574b869/Add%20Expense.png" img/>
-  <img src=" " img/>
 </div>
 
 
